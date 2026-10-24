@@ -1,0 +1,6 @@
+{
+  "name": "vocab-bubble-captions",
+  "version": "0.1.0",
+  "description": "Bilingual EN/中文 burned captions with white speech-bubble vocab notes (word, part of speech, 中文, collocation) for English-teaching videos.",
+  "author": { "name": "Ella" }
+}
