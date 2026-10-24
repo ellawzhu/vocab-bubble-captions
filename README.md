@@ -9,7 +9,7 @@ A Claude Code skill that turns a video into a captioned lesson for Chinese learn
 In Claude Code:
 
 ```
-/plugin marketplace add <your-github-username>/vocab-bubble-captions
+/plugin marketplace add ellawzhu/vocab-bubble-captions
 /plugin install vocab-bubble-captions@vocab-bubble-captions
 ```
 
